@@ -21,13 +21,13 @@ A simple console-based employee record management project written in C for first
 ### GCC
 
 ```bash
-gcc -std=c11 -Wall -Wextra -Wpedantic trialsla.c -o trialsla
+gcc -std=c11 -Wall -Wextra -Wpedantic SLA-Employee-record-management-c.c -o trialsla
 ```
 
 ### Windows with MinGW
 
 ```powershell
-gcc -std=c11 -Wall -Wextra -Wpedantic trialsla.c -o trialsla.exe
+gcc -std=c11 -Wall -Wextra -Wpedantic SLA-Employee-record-management-c.c -o trialsla.exe
 ```
 
 ## Run
@@ -53,9 +53,9 @@ On Windows PowerShell:
 
 ```text
 .
-├── README.md
-├── trialsla.c
-└── .gitignore
+|-- README.md
+|-- SLA-Employee-record-management-c.c
+`-- .gitignore
 ```
 
 ## Notes
